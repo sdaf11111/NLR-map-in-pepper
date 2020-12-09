@@ -1,5 +1,5 @@
 # NLR-map-in-pepper
-This repository contains gene annotations for pepper accessions using TGFam-Finder and custom scripts for Figures and Supplementary Tables.  
+This repository contains gene annotations for pepper accessions using TGFam-Finder and custom scripts for Figure 3a and Supplementary Tables.  
 Other data could be downladed from Pepper Genome Platform (http://peppergenome.snu.ac.kr/download.php).    
 
 Prefix definition  
