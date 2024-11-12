@@ -8,3 +8,6 @@ CECW: ECW
 CASF: SF  
 CZUN: Zunla-1  
 CHIL: Chiltepin  
+
+# 2024.11.13. update
+ECW_SF.LocusTag_info.xlsx: List of locus_tag conversions of ECW and SF uploaded to NCBI GenBank
