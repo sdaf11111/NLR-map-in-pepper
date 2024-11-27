@@ -11,3 +11,7 @@ CHIL: Chiltepin
 
 # 2024.11.13. update
 ECW_SF.LocusTag_info.xlsx: List of locus_tag conversions of ECW and SF uploaded to NCBI GenBank
+
+# 2024.11.27. update
+ECW.interproscan.xlsx: Functional annotation result of ECW gene annotation using InterProScan v5.22–61.0
+SF.interproscan.xlsx: Functional annotation result of SF gene annotation using InterProScan v5.22–61.0
